@@ -1,6 +1,39 @@
 body{
-color:white;
-background:black;
+color:black;
+background:white;
+font-family: "Secular One", sans-serif;
+font-size: 20px;
+margin-bottom:40px
 }
 
-header{ font-size: 32px;}
+header{
+padding: 20px;
+    color:green;
+    font-size: 32px;
+    border-bottom: solid 2px green}
+    
+    .Assunto{
+      margin-left: 1%;
+        
+      justify-content: center;
+      
+    }
+p{ font-size: 20px;}
+
+
+.Maisvideos{padding-left: }
+
+.Maisvideos img{
+  opacity: 0.8;
+  gap:10px;
+  height: 150px;
+}
+
+.Maisvideos img:hover{
+  opacity:1.0;
+  border: 3px solid green;
+}
+.indicações h2{
+  color: green
+}
+
